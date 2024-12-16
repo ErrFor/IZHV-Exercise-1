@@ -1,0 +1,54 @@
+
+\documentclass[a4paper,10pt,english]{article}
+
+\usepackage[left=2.50cm,right=2.50cm,top=1.50cm,bottom=2.50cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue}
+
+\newcommand{\ph}[1]{\textit{[#1]}}
+
+\title{%
+Analysis of Mechanics%
+}
+\author{%
+Slabik Yaroslav (xslabi01)%
+}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+{%
+\large
+
+\begin{itemize}
+
+\item[] \textbf{Title:} Papers, Please
+
+\item[] \textbf{Released:} 2013
+
+\item[] \textbf{Author:} Lucas Pope
+
+\item[] \textbf{Primary Genre:} Puzzle / Simulation
+
+\item[] \textbf{Secondary Genre:} Narrative / Interactive Fiction
+
+\item[] \textbf{Style:} Retro, pixel-art with a subdued, oppressive atmosphere
+
+\end{itemize}
+
+}
+
+\section*{\centering Analysis}
+
+\noindent
+\textit{Papers, Please} is a serious game focusing on the bureaucratic tasks of a border inspector in a fictional dystopian country. Its \textbf{primary genre}, a puzzle-like simulation, manifests through the core mechanic of scrutinizing documents against ever-evolving rules. The player’s primary challenge is to identify inconsistencies under time pressure, reflecting the puzzle aspect, while simulating the day-to-day operations of an immigration checkpoint.
+
+The \textbf{secondary genres} of narrative and interactive fiction add depth to the core puzzle mechanic. As the player progresses, personal stories emerge; moral dilemmas appear when confronted with desperate refugees, political dissidents, or bribery attempts. While these narrative elements do not change the fundamental puzzle checks, they overlay a moral and emotional dimension, making the simulation more than a sterile exercise. Rather than detracting from the puzzle element, the narrative context amplifies it, forcing the player to balance efficiency against empathy and personal risk.
+
+The chosen \textbf{style} is retro, pixel-art graphics, muted colors, and a minimalist user interface, which evoke a somber and oppressive Eastern Bloc aesthetic. This stylistic choice supports the gameplay by immersing the player in an atmosphere of tension and scarcity. Rather than relying on photorealism, the simplified visuals allow players to focus on documents and details, reinforcing the puzzle aspect. The result is a synergistic relationship: the puzzle-simulation core challenges the player’s attention to detail, the narrative layers provide moral weight to seemingly mundane tasks, and the retro, minimalist presentation ensures these elements remain cohesive, coherent, and impactful.
+
+\end{document}
